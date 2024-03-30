@@ -1,0 +1,2 @@
+SELECT * FROM users WHERE name IN ('jose', 'carlos')
+-- BUSCA EN MAYUSCULAS Y MISNUSCULAS
